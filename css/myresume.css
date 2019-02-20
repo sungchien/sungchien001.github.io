@@ -10,4 +10,10 @@ h1, h2, h3, h4, h5, h6 {
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
+	letter-spacing: -0.1rem;
+}
+
+h1 .text-primary {
+	font-size: 2rem;
+	letter-spacing: -0.1rem;
 }
