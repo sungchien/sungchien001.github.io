@@ -9,11 +9,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
 	text-transform: none;
 	letter-spacing: -0.1rem;
 }
 
 h1 .text-primary {
-	font-size: 2rem;
+	font-size: 3rem;
 	letter-spacing: -0.1rem;
+	line-height: 3rem;
 }
