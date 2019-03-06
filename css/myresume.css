@@ -23,3 +23,7 @@ h1 .text-primary {
 .bg-primary {
 	background-image: url("https://www.transparenttextures.com/patterns/pinstripe-dark.png");
 }
+
+.graph_set {
+	margin-top: 3rem;
+}
